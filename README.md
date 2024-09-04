@@ -93,7 +93,3 @@ The following endpoints are provided by the Flask REST API:
 - **POST `/create_contact`**: Creates a new contact.
 - **PATCH `/update_contact/<int:user_id>`**: Updates an existing contact by its ID.
 - **DELETE `/delete_contact/<int:user_id>`**: Deletes a contact by its ID.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
