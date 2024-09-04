@@ -24,35 +24,6 @@ This project is a full-stack web application for managing a contact list with Cr
 - **Flask**: Python web framework for building the REST API.
 - **SQLite**: Database used for storing contacts (can be replaced with another database system).
 
-## Project Structure
-
-```plaintext
-project-root/
-│
-├── backend/
-│   ├── app.py
-│   ├── config.py
-│   ├── models/
-│   │   └── models.py
-│
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── App.jsx
-│   │   ├── ContactList.jsx
-│   │   ├── ContactList.scss
-│   │   ├── ContactForm.jsx
-│   │   ├── ContactList.scss
-│   │   ├── App.scss
-│   │   ├── index.css
-│   │   ├── main.jsx
-│   └── package.json
-│
-│
-└── README.md
-```
-
 ## Setup and Installation
 
 ### Prerequisites
